@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on anything that allows me to learn.
 - 📫 The best way to reach me is by email: buckles-brim0w@icloud.com
 
+
+
+https://www.techtarget.com/searchsoftwarequality/tip/Working-with-Git-branches-and-repositories
+
+
+
+
+
 <!---
 1Dedios/1Dedios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
