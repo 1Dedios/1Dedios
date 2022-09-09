@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dediOS</h1>
+<h1 align="center">Hi 👋, I'm DediOS</h1>
 <h3 align="center">A passionate frontend developer from the Empire State 🗽 NY. Loading Full Stack Completion: 50%.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dedios" alt="1dedios" /></a> </p>
