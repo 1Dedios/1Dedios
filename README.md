@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **becoming a full stack dev 🥞**
 
-- 👨‍💻 All of my projects are available at [link coming soon....🤑](link coming soon....🤑)
+- 👨‍💻 All of my projects are available at (link coming soon....🤑)
 
-- 📝 I regularly write articles on [Medium (also coming soon)...](Medium (also coming soon)...)
+- 📝 I regularly write articles on Medium (also coming soon)...
 
 - 💬 Ask me about **UX/UI Design & HTML/CSS 🚀**
 
