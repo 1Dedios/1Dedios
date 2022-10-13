@@ -27,7 +27,7 @@
 
 
 <h3 align="center">Connect with me 🔗:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/@1dedios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@1dedios" height="30" width="40" /></a>
 <a href="https://twitter.com/1dedios1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1dedios1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/epadilla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="epadilla1" height="30" width="40" /></a>
@@ -46,24 +46,25 @@
 
 
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
 
 
 
 
-<h3 align="left">Daily.dev Stat Card 🙇🏽</h3>
+<h3 align="center">Daily.dev Stat Card 🙇🏽</h3>
 
-<a href="https://app.daily.dev/Dedios"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
+<p align="center">
+<a href="https://app.daily.dev/Dedios"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a> </p>
 
 
 <br>
 <br>
+
 
 <h3 align="center">Holopin.io Badges 🔥</h3>
-
+<p align="center">
 [![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
-
+</p>
 
 
 
