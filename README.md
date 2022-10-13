@@ -11,19 +11,19 @@
 
 - 👯 I’m looking to collaborate on **anything exciting. I love a good collab.**
 
-- 🤝 I’m looking for help with **becoming a full stack dev 🥞**
+- 🤝 I’m looking for help with **landing my first Tech role**
 
-- 👨‍💻 All of my projects are available at (link coming soon....🤑)
+- 👨‍💻 All of my projects are available either in Githbu or (link coming soon....🤑)
 
-- 📝 I regularly write articles on Medium (also coming soon)...
+- 📝 I will soon establish a blog on Medium to regularly write articles (also coming soon)...
 
-- 💬 Ask me about **UX/UI Design & HTML/CSS 🚀**
+- 💬 Ask me about **Design & Web Development 🚀**
 
-- 📫 How to reach me **buckles-brim0w@icloud.com**
+- 📫 How to reach me by email **buckles-brim0w@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/epadilla1/](https://www.linkedin.com/in/epadilla1/)
+- 📄 Want to see my experience? [https://www.linkedin.com/in/epadilla1/](https://www.linkedin.com/in/epadilla1/)
 
-- ⚡ Fun fact **I also make music (Hip-Hop/R&B), love Jesus ❤️, and love spending time with my children.**
+- ⚡ Fun fact **I also make music (Hip-Hop/R&B), love Jesus ❤️, and love spending time with my children. Also, might get into tufting 😆... I am just a builder/creator at heart.**
 
 
 <h3 align="left">Connect with me 🔗:</h3>
@@ -46,18 +46,17 @@
 
 
 
-<div>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
-</div>
+
 
 <br>
 
-<div>
+
 <h3 align="left">Daily.dev Stat Card 🙇🏽</h3>
 
+<a href="https://app.daily.dev/Dedios"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
 
-<a href="https://app.daily.dev/Dedios"><img align="center" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
-</div>
 
 <br>
 <br>
