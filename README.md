@@ -45,13 +45,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
 
-
-
+<br>
 
 <h3 align="center">Daily.dev Stat Card 🙇🏽</h3>
 
-
-<a href="https://app.daily.dev/Dedios" align="center"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/Dedios" align="center"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a> </p>
 
 
 <br>
