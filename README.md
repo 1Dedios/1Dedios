@@ -25,7 +25,8 @@
 
 - ⚡ Fun fact **I also make music (Hip-Hop/R&B), love Jesus ❤️, and love spending time with my children.**
 
-
+<br>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,7 +37,8 @@
 </p>
 
 
-
+<br>
+<br>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -46,20 +48,23 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios" /></p>
 
-
+<br>
+<br>
 
 
 <h3 align="center">Daily.dev Stat Card</h3>
 <a href="https://app.daily.dev/Dedios"><img align="center" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
 
 
-
+<br>
+<br>
 
 <h3 align="center">Holopin.io Badges 🔥</h3>
 
-
+<br>
+<br>
 
 [![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
 
