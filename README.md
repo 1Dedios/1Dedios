@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DediOS</h1>
+<h1 align="center">Hi 👋, I'm DediOS.</h1>
 <h3 align="center">A passionate frontend developer & native NY'er🗽. Loading Full Stack Completion: 50%...</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dedios" alt="1dedios" /></a> </p>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me by email **buckles-brim0w@icloud.com**
 
-- 📄 Want to see my experience? [https://www.linkedin.com/in/epadilla1/](https://www.linkedin.com/in/epadilla1/)
+- 📄 Want to see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
 - ⚡ Fun fact **I also make music (Hip-Hop/R&B), love Jesus ❤️, and love spending time with my children. Also, might get into tufting 😆... I am just a builder/creator at heart.**
 
@@ -43,15 +43,16 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
 
 
-<h3 align="left">Daily.dev Stat Card 🙇🏽</h3>
+<h3>Daily.dev Stat Card 🙇🏽</h3>
 
-<img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/>
+<img src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/>
 
 
-<h3 align="center">Holopin.io Badges 🔥</h3>
+
+<h3>Holopin.io Badges 🔥</h3>
 
 [![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
 
