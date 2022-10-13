@@ -46,18 +46,18 @@
 
 
 
-
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dedios&show_icons=true&locale=en&layout=compact" alt="1dedios"/>
-
+</div>
 
 <br>
 
-
+<div>
 <h3 align="left">Daily.dev Stat Card 🙇🏽</h3>
 
 
 <a href="https://app.daily.dev/Dedios"><img align="center" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
-
+</div>
 
 <br>
 <br>
