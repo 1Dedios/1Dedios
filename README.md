@@ -34,9 +34,6 @@
 </p>
 
 
-<br>
-<br>
-
 
 <h3 align="center">Languages and Tools 📝:</h3>
 
@@ -62,9 +59,9 @@
 
 
 <h3 align="center">Holopin.io Badges 🔥</h3>
-<p align="center">
+
 [![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
-</p>
+
 
 
 
