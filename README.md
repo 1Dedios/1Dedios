@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/epadilla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="epadilla1" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 <h3 align="center">Languages and Tools 📝:</h3>
 
@@ -50,8 +50,8 @@
 
 <h3 align="center">Daily.dev Stat Card 🙇🏽</h3>
 
-<p align="center">
-<a href="https://app.daily.dev/Dedios"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a> </p>
+
+<a href="https://app.daily.dev/Dedios" align="center"><img align="left" src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
 
 
 <br>
