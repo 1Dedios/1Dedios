@@ -42,6 +42,7 @@
 
 <a href="https://app.daily.dev/Dedios"><img src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/></a>
 
+[![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
 
 
 
