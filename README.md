@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **landing my first Tech role**
 
-- 👨‍💻 All of my projects are available either in Githbu or (link coming soon....🤑)
+- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios))
 
 - 📝 I will soon establish a blog on Medium to regularly write articles (also coming soon)...
 
