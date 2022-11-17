@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">A passionate Frontend Developer & native NY'er🗽. Loading Full Stack Completion: 50%...</h3>
+<h3 align="center">A passionate Frontend Developer & native NY'er🗽. However, will be expanding skills to be a Full Stack and iOS Mobile Engineer - Progress Bar: 75%...</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dedios" alt="1dedios" /></a> </p>
 
