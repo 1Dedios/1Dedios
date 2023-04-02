@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">A passionate Frontend Developer & native NY'er🗽. However, will be expanding skills to be a Full Stack and iOS Mobile Engineer - Progress Bar: 75%...</h3>
+<h3 align="center">A passionate Developer & native NY'er🗽</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dedios" alt="1dedios" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/1dedios1" target="blank"><img src="https://img.shields.io/twitter/follow/1dedios1?logo=twitter&style=for-the-badge" alt="1dedios1" /></a> </p>
+
+<a href="https://twitter.com/1dedios1">
+   <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 - 🔭 I’m currently working on Fullstack Proficiency w/ JavaScript and Java.
 
