@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **anything exciting. I love a good collab.**
 
-- 🤝 I’m looking for help with **landing my first role in Tech**
+- 🤝 I’m looking for help with **landing my first role in Tech.**
 
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios)
 
