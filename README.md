@@ -5,25 +5,23 @@
 
 <p align="center"> <a href="https://twitter.com/1dedios1" target="blank"><img src="https://img.shields.io/twitter/follow/1dedios1?logo=twitter&style=for-the-badge" alt="1dedios1" /></a> </p>
 
-- 🔭 I’m currently working on **building my Portfolio.**
+- 🔭 I’m currently working on Fullstack Proficiency w/ JavaScript and Java.
 
-- 🌱 I’m currently learning **React & Tailwind.**
+- 🌱 I’m currently learning **Java and Technical Writing w/ Google**
 
 - 👯 I’m looking to collaborate on **anything exciting. I love a good collab.**
 
-- 🤝 I’m looking for help with **landing my first Tech role**
+- 🤝 I’m looking for help with **landing my first role in Tech**
 
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios)
 
-- 📝 I will soon establish a blog on Medium to regularly write articles (also coming soon)...
+- 📝 I will soon establish a Technical Writing blog on Medium to regularly write articles (coming soon)...
 
-- 💬 Ask me about **Design & Web Development 🚀**
+- 💬 Ask me about **Business & Web Development 🚀**
 
-- 📫 How to reach me by email **buckles-brim0w@icloud.com**
+- 📫 How to reach me? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
 - 📄 Want to see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
-
-- ⚡ Fun fact **I also make music (Hip-Hop/R&B), love Jesus ❤️, and love spending time with my children. Also, might get into tufting 😆... I am just a builder/creator at heart.**
 
 
 <h3 align="center">Connect with me 🔗:</h3>
