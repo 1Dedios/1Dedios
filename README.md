@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
 <h3 align="center">A passionate Developer & native NY'er🗽</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dedios" alt="1dedios" /></a> </p>
+<p align="center">
+   <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark" />
+   </a>
+</p>
+
 
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
