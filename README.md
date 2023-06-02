@@ -37,6 +37,8 @@
 
 - 📄 Want to see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
+- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges 📈 **
+
 <br>
 
 <h2 align="center">Languages and Tools 📝</h2>
