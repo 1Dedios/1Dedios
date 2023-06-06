@@ -19,19 +19,19 @@
 ## A Bit of Me:
 
 
-- 🔭 I’m currently working on Fullstack Proficiency w/ JavaScript and Java.
+- 🔭 I’m currently building projects in Java and JS with a DB component.
 
-- 🌱 I’m currently learning **Java and Technical Writing w/ Google**
+- 🌱 I’m currently deepening my knowledge in **Java, JS and Technical Writing w/ Google**
 
-- 👯 I’m looking to collaborate on **anything exciting. I love a good collab.**
+- 👯 I’m looking to collaborate on **open source projects and group projects.**
 
-- 🤝 I’m looking for help with **landing my first role in Tech.**
+- 🤝 I’m looking for help with **landing my first opportunity in Tech.**
 
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios)
 
 - 📝 I will soon establish a Technical Writing blog on Medium to regularly write articles (coming soon)...
 
-- 💬 Ask me about **Business & Web Development 🚀**
+- 💬 Ask me about **Business & Web Development 🚀 and Personal Finance(former F.A)**
 
 - 📫 How to reach me? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
