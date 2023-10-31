@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">A passionate Developer & native NY'er🗽</h3>
+<h3 align="center">A Fullstack Software Engineer & native NY'er🗽</h3>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
@@ -19,25 +19,25 @@
 ## A Bit of Me:
 
 
-- 🔭 I’m currently building projects in Java and JS with a DB component.
+- 🔭 I’m currently building projects in Wordpress/PHP and Next.JS/JavaScript.
 
-- 🌱 I’m currently deepening my knowledge in **Java, JS and Technical Writing w/ Google**
+- 🌱 I’m currently deepening my knowledge in **Backend Development along with System Design and Architecture**
 
-- 👯 I’m looking to collaborate on **open source projects and group projects.**
+- 👯 I’m looking to collaborate on **open source projects and group projects to increase candidacy for a fulltime Engineer role.**
 
-- 🤝 I’m looking for help with **landing my first opportunity in Tech.**
+- 🤝 I’m looking to **network and land a role as a fulltime Engineer.**
 
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios)
 
 - 📝 I will soon establish a Technical Writing blog on Medium to regularly write articles (coming soon)...
 
-- 💬 Ask me about **Business & Web Development 🚀 and Personal Finance(former F.A)**
+- 💬 Ask me about **Software Engineering 🚀 and Business/Personal Finance(former F.A and Business Banker)**
 
 - 📫 How to reach me? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
 - 📄 Want to see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
-- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges 📈**
+- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges or studying 📈**
 
 <br>
 
