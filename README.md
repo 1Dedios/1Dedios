@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">A Fullstack Software Engineer & native NY'er🗽</h3>
+<h3 align="center">Net/Sec Professional and Software Engineer</h3>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
@@ -19,23 +19,21 @@
 ## A Bit of Me:
 
 
-- 🔭 I’m currently building projects in Wordpress/PHP and Next.JS/JavaScript.
+- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
 
-- 🌱 I’m currently deepening my knowledge in **Backend Development along with System Design and Architecture**
+- 🌱 I’m currently building my own projects and finishing out V2 of my Portfolio. 
 
-- 👯 I’m looking to collaborate on **open source projects and group projects to increase candidacy for a fulltime Engineer role.**
+- 👯 I’m looking to collaborate on **open source projects and group projects.** I love to build. 
 
-- 🤝 I’m looking to **network and land a role as a fulltime Engineer.**
+- 🤝 I’m looking **for a full-time or contract position in Software Engineering.**
 
-- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios)
+- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my site). 
 
-- 📝 I will soon establish a Technical Writing blog on Medium to regularly write articles (coming soon)...
+- 📝 I will be establishing a Technical Writing blog to regularly write articles (coming soon)...
 
-- 💬 Ask me about **Software Engineering 🚀 and Business/Personal Finance(former F.A and Business Banker)**
+- 💬 Ask me about **Software Engineering🚀 Network Engineering🛜 and CyberSecurity👾**
 
-- 📫 How to reach me? [Linkedin](https://www.linkedin.com/in/epadilla1/)
-
-- 📄 Want to see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
+- 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
 - 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges or studying 📈**
 
