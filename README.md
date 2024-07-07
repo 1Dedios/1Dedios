@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">Net/Sec Professional and Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
@@ -19,7 +19,7 @@
 ## A Bit of Me:
 
 
-- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
+- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens.
 
 - 🌱 I’m currently building my own projects and finishing out V2 of my Portfolio. 
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
-- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges or studying 📈**
+- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges (pen and paper is still undefeated) or studying 📈**
 
 <br>
 
