@@ -16,18 +16,18 @@
 </p>
 
 
-## A Bit of Me:
+## A Bit About Me:
 
 
-- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens.
+- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
 
 - 🌱 I’m currently building my own projects and finishing out V2 of my Portfolio. 
 
 - 👯 I’m looking to collaborate on **open source projects and group projects.** I love to build. 
 
-- 🤝 I’m looking **for a full-time or contract position in Software Engineering.**
+- 🤝 I’m looking **for a new work opportunity.**
 
-- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my site). 
+- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
 
 - 📝 I will be establishing a Technical Writing blog to regularly write articles (coming soon)...
 
