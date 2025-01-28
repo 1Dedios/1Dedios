@@ -27,6 +27,8 @@
 
 - 🤝 I’m looking **for a new work opportunity.**
 
+- **PFP** is my face when the question warrants an "it depends..."
+
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
 
 - 📝 I will be establishing a Technical Writing blog to regularly write articles (coming soon)...
