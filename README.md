@@ -33,7 +33,7 @@
 
 - 📝 I will be establishing a Technical Writing blog to regularly write articles (coming soon)...
 
-- 💬 Ask me about **Software Engineering🚀 Network Engineering🛜 and CyberSecurity👾**
+- 💬 Ask me about **Software Engineering🚀 && CyberSecurity👾**
 
 - 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
