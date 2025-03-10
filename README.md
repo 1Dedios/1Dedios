@@ -1,44 +1,39 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<br>
+<h2 align="center">Software Engineer</h2>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
       <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark" />
    </a>
 </p>
+<br>
 
+## Whoami:
 
+- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
+
+- 🌱 I’m currently finishing out V2 of my Portfolio, attending Hackathons && generally thinking about solutions to problems that I can build. 
+
+- 🤝 I’m looking for a **new work opportunity** || **to collaborate on OSS.**
+
+- **PFP** is my face when the question warrants an "It depends..."
+
+- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my site). 
+
+- 📝 I will be adding a Technical blog to my site for my regularly written articles (coming soon)...
+
+- 💬 Ask me about **Software Engineering🚀 && CyberSecurity👾**
+
+- 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
+
+<br>
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
    <a href="https://twitter.com/1dedios1">
       <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
 </p>
-
-
-## A Bit About Me:
-
-
-- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
-
-- 🌱 I’m currently building my own projects and finishing out V2 of my Portfolio. 
-
-- 👯 I’m looking to collaborate on **open source projects and group projects.** I love to build. 
-
-- 🤝 I’m looking **for a new work opportunity.**
-
-- **PFP** is my face when the question warrants an "it depends..."
-
-- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
-
-- 📝 I will be establishing a Technical Writing blog to regularly write articles (coming soon)...
-
-- 💬 Ask me about **Software Engineering🚀 && CyberSecurity👾**
-
-- 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
-
-- 🟩 Finally, if you don't see a green square for the day... **It's only because I am working on DSA Challenges (pen and paper are still undefeated) or studying 📈**
-
 <br>
 
 <h2 align="center">Languages and Tools 📝</h2>
