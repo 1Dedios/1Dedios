@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DediOS.</h1>
 <br>
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">Engineer</h2>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
