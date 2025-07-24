@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm DediOS.</h1>
-<br>
-<h2 align="center">Engineer</h2>
+<h1 align="center">Software/Systems Engineering & Info Sec</h1>
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
@@ -11,15 +9,15 @@
 
 ## Whoami:
 
-- 🔭 I’m currently pursuing a Master's in Computer Science from Stevens Institute of Technology.
+- 🔭 Currently pursuing a MSc from Stevens Institute of Technology with focus on AI/ML.
 
-- 🌱 I’m currently finishing out V2 of my Portfolio, attending Hackathons && generally thinking about solutions to problems that I can build. 
+- 🌱 I'm working on V2 of my Portfolio, attending Hackathons && generally thinking about solutions to problems that I can build. 
 
-- 🤝 I’m looking for a **new work opportunity** || **to collaborate on OSS.**
+- 🤝 Always down for **new project opportunities** || **to collaborate on OSS.**
 
 - **PFP** is my face when the question warrants an "It depends..."
 
-- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my site). 
+- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
 
 - 📝 I will be adding a Technical blog to my site for my regularly written articles (coming soon)...
 
@@ -27,13 +25,6 @@
 
 - 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
-<br>
-<h3 align="center">Connect with me 🔗:</h3>
-<p align="center">
-   <a href="https://twitter.com/1dedios1">
-      <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-   </a>
-</p>
 <br>
 
 <h2 align="center">Languages and Tools 📝</h2>
@@ -45,7 +36,9 @@
 
 <h2 align="center">Daily.dev Stat Card 🙇🏽</h2>
 
-<img src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card"/>
+<div align="center">
+   <img src="https://api.daily.dev/devcards/858a28ba106b493bba5ef2132940950f.png?r=tvm" width="400" alt="Eddie P's Dev Card" align="center"/>
+</div>
 
 <br>
 
