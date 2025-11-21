@@ -1,4 +1,14 @@
-<h1 align="center">Software/Systems Engineering & Info Sec</h1>
+# 🛡️ EDDIE P.
+## 👨‍💻 SECURITY ENGINEER - SOFTWARE ENGINEER | Cloud/Network & App Security | Ethical Hacker | Problem Solver  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/epadilla1)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/1Dedios)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/0x1Dedios1)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<your-id>)
+[![Static Badge](https://img.shields.io/badge/Online_Resume-8A2BE2)](https://1dedios.github.io/resume/)
+
+
+## 📊 Github Stats
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
@@ -7,7 +17,7 @@
 </p>
 <br>
 
-## Whoami:
+## 👋 Whoami:
 
 - 🔭 Currently pursuing a MSc from Stevens Institute of Technology with focus on AI/ML.
 
@@ -46,7 +56,11 @@
 
 [![@dedios's Holopin board](https://holopin.me/dedios)](https://holopin.io/@dedios)
 
+---
 
+*Last Updated: November 2025*  
+
+> _"Security is not about perfection—it’s about resilience."_ — **<EddieP>**
 
 
 <!---
