@@ -44,24 +44,24 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,gcp,bash,powershell,terraform,docker,git,github,c,java,html,css,tailwind,javascript,typescript,python,nodejs,go,ruby,express,react,nextjs,postgresql,mongodb,mysql,jest)](https://skillicons.dev)
 
 **Core Competencies**  
-- Cloud Security (AWS | Azure | GCP)  
+- Cloud (AWS | GCP)  
 - SIEM & Threat Detection (Splunk | ELK | Wazuh)  
-- Network Defense & Firewall Management (pfSense | Suricata | Snort)  
+- Network Defense & Firewall Management (pfSense & Snort)  
 - Incident Response & Digital Forensics  
-- Security Automation (Python, Bash, PowerShell)  
-- Identity & Access Management (IAM, SSO, MFA)  
+- Security Automation (Python, Bash, Powershell)  
+- Identity & Access Management (IAM, MFA)  
 
 **Certifications**  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)
+![Oracle AI](https://img.shields.io/badge/Oracle-OCI_Gen_AI-red)
+![ISC2 CC](https://img.shields.io/badge/ISC2-CC-green)
 ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-black)
-![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified%20Security%20Engineer-blue)
+![GIAC-GFACT](https://img.shields.io/badge/SANS-GIAC_GFACT-blue)
+![GIAC-GFACT](https://img.shields.io/badge/SANS-GIAC_GSEC-blue)
+![GIAC-GFACT](https://img.shields.io/badge/SANS-GIAC_GCIH-blue)
 
 **Badges & Labs**  
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_Level_1-blue)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Cloud_Security-green)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Member-orange)
-![Cybrary](https://img.shields.io/badge/Cybrary-Incident_Response-yellow)
+![Cybrary](https://img.shields.io/badge/Cybrary-OSINT-yellow)
 
 ---
 
@@ -70,7 +70,7 @@
 ### 1. [**File Encrypter/Decrypter**](https://github.com/1Dedios/security-scripts)
 **Skills:** GPG, Bash
 
-This script will encrypt/decrypt a file of your choosing from the directory you're running the script.
+This script will encrypt/decrypt a file of your choosing from the directory you're running the script in.
 
 **Key Achievements:**  
 - Encrypt/Decrypt Files in current directory
@@ -79,18 +79,17 @@ This script will encrypt/decrypt a file of your choosing from the directory you'
 
 ---
 
-### 2. [**Network Security Architecture Lab**](https://github.com/<your-github>/network-security-lab)
-**Skills:** Network Segmentation, Firewall Configuration, IDS/IPS  
+### 2. [**Linux Network Cluster**](https://github.com/1Dedios/wiki-repo/wiki/Network:-Linux-Clusters)
+**Skills:** Network IP Configuration, Server Management, SSH Congifuration
 
-Simulated a ransomware outbreak in a virtual environment to test incident response capabilities.  
-Analyzed logs, identified initial vector, and implemented post-incident improvements.
+Created a Linux cluster of servers with ssh connection to each other while having independent internet access; all controlled by a master node.
 
 **Key Achievements:**  
-- Reduced network exposure by 65% through segmentation  
-- Deployed custom Snort rules for anomaly detection  
-- Documented full network topology and rulebase  
+- Deployed 3 Ubuntu Servers in a network cluster with SSH connection to each other
+- 3 Ubuntu servers with independent internet access
+- Configured a **Master** node to control other servers
 
-**Tools:** pfSense, Suricata, OpenVPN, Wireshark, GNS3  
+**Tools:** Ubuntu Desktop/Server, KVM/QEMU, Bash
 
 ---
 
@@ -124,7 +123,7 @@ Created DevSecOps as a service with tiered offerings. Specifically geared toward
 
 *Last Updated: November 2025*  
 
-> _"Security is not about perfection—it’s about resilience."_ — **<EddieP>**
+> _"There is no such thing as 100% secure."_ — **Cybersecurity Myths & Misconceptions (Spafford Et al. 2023)**
 
 
 <!---
