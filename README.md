@@ -13,7 +13,7 @@
 
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark" />
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=darkhub" />
    </a>
 </p>
 
