@@ -27,7 +27,7 @@
 
 - 🤝 Always down for **new project opportunities** || **to collaborate on OSS.**
 
-- **PFP** is my face when the question warrants an "It depends..."
+- **PFP** is my face when the question warrants an "It depends..."; which is basically all of the time because we are always balancing tradeoffs. ⚖️
 
 - 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
 
