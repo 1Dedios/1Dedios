@@ -1,5 +1,6 @@
-# 🛡️ EDDIE P.
-## 👨‍💻 SECURITY ENGINEER - SOFTWARE ENGINEER | Cloud/Network & App Security | Ethical Hacker | Problem Solver  
+# EDDIE P.
+##  🛡️ Security Engineer • 👨‍💻 Software Engineer
+### Cloud | Network | App | Ethical Hacker | Problem Solver  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/epadilla1)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/1Dedios)
