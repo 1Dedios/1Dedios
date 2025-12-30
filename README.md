@@ -8,6 +8,8 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<your-id>)
 [![Static Badge](https://img.shields.io/badge/Online_Resume-8A2BE2)](https://1dedios.github.io/resume/)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x1Dedios1.png" alt="Your Image Badge" />
+
 ---
 
 ## 📊 Github Stats
