@@ -1,5 +1,5 @@
 # EDDIE P.
-##  🛡️ Security Engineer • 👨‍💻 Software Engineer
+##  🛡️ Security & Software Engineer
 ### Cloud | Network | App | Ethical Hacker | Problem Solver  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/epadilla1)
@@ -8,9 +8,12 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<your-id>)
 [![Static Badge](https://img.shields.io/badge/Online_Resume-8A2BE2)](https://1dedios.github.io/resume/)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x1Dedios1.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x1Dedios1.png" alt="Tryhackme Image Badge" />
 
 ---
+
+<!--GIAC Badges-->
+<img src="https://personal-site.b-cdn.net/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT Badge" height="84px" width="84px"/>
 
 ## 📊 Github Stats
 
@@ -20,7 +23,6 @@
    </a>
 </p>
 
----
 
 ## 👋 Whoami:
 
@@ -40,7 +42,6 @@
 
 - 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
----
 
 ## 🧠 Technical Skills
 
@@ -124,7 +125,7 @@ Created DevSecOps as a service with tiered offerings. Specifically geared toward
 
 ---
 
-*Last Updated: November 2025*  
+*Last Updated: January 2026*  
 
 > _"There is no such thing as 100% secure."_ — **Cybersecurity Myths & Misconceptions (Spafford Et al. 2023)**
 
