@@ -19,7 +19,7 @@
 ## 📊 Github Stats
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=darkhub" />
+      <img alt="Trophies" src="https://trophy.ryglcloud.net/?username=1Dedios&theme=darkhub" />
    </a>
 </p>
 
