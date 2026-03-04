@@ -1,6 +1,6 @@
 # EDDIE P.
-##  🛡️ Security & Software Engineer
-### Cloud | Network | App | Ethical Hacker | Problem Solver  
+##  🛡️ Software & Security Engineer
+### Cloud | Network | App | Ethical Hacker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/epadilla1)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/1Dedios)
@@ -13,10 +13,10 @@
 ---
 
 <!--GIAC Badges-->
+## SANS Institute Security Training
 <img src="https://personal-site.b-cdn.net/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT Badge" height="84px" width="84px"/>
 
 ## 📊 Github Stats
-
 <p align="center">
    <a href="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=onedark">
       <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=1Dedios&theme=darkhub" />
@@ -28,32 +28,68 @@
 
 - 🔭 Currently pursuing a MSc from Stevens Institute of Technology with focus on AI/ML.
 
-- 🌱 I'm working on V2 of my Portfolio, attending Hackathons && generally thinking about solutions to problems that I can build. 
+- 🌱 I'm working on V2 of my Site, attending Hackathons && generally thinking about solutions to problems that I can build.
 
 - 🤝 Always down for **new project opportunities** || **to collaborate on OSS.**
 
-- **PFP** is my face when the question warrants an "It depends..."; which is basically all of the time because we are always balancing tradeoffs. ⚖️
-
-- 👨‍💻 All of my projects are available either in Github or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my portfolio site). 
+- 👨‍💻 All of my projects are available either here or [Code Pen](https://codepen.io/1dedios) - soon it will be available in one place (my site). 
 
 - 📝 I will be adding a Technical blog to my site for my regularly written articles (coming soon)...
 
-- 💬 Ask me about **Software Engineering🚀 && CyberSecurity👾**
+- 💬 Ask me about **Software Engineering🚀 && CyberSecurity🛡️ && AI👾**
 
-- 📫 How to reach me and also see my experience? [Linkedin](https://www.linkedin.com/in/epadilla1/)
+- 📫 Send a message [Linkedin](https://www.linkedin.com/in/epadilla1/)
 
 
 ## 🧠 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,gcp,bash,powershell,terraform,docker,git,github,c,java,html,css,tailwind,javascript,typescript,python,nodejs,go,ruby,express,react,nextjs,postgresql,mongodb,mysql,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,gcp,bash,powershell,terraform,docker,git,github,c,cs,java,html,css,tailwind,javascript,typescript,python,nodejs,go,ruby,express,react,nextjs,postgresql,mongodb,mysql,jest)](https://skillicons.dev)
 
-**Core Competencies**  
-- Cloud (AWS | GCP)  
-- SIEM & Threat Detection (Splunk | ELK | Wazuh)  
-- Network Defense & Firewall Management (pfSense & Snort)  
-- Incident Response & Digital Forensics  
-- Security Automation (Python, Bash, Powershell)  
-- Identity & Access Management (IAM, MFA)  
+### Software Engineer
+- Cloud & Identity & Access Management (IAM, MFA)
+  - AWS
+  - GCP
+- Twelve-Factor App
+
+#### 1. Programming
+- C, C# (.NET Core/ASP.NET),
+- Java (Spring Boot),
+- Python (Flask, Django),
+- JavaScript/Typescript (React, Next.js),
+- Bash
+
+#### 2. Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+#### 3. OS
+- Linux (Ubuntu, Kali, Parrot,)
+- Windows (10, 11, Active Directory)
+- macOS
+
+#### 4. Servers
+- Ubuntu
+- Apache
+- Nginx
+- Windows Server & Active Directory
+- Python - http servers
+
+### Security Engineer
+- Purple Teamer (Attack & Defense)
+- Shift-Left Security
+- SANS Student
+  
+#### 1. Network Defense/Analysis
+- pfSense, ufw
+- tcpdump
+- Wireshark
+
+#### 2. APP Security
+- OWASP Top 10
+- Twelve-Factor Application
+- Source Code Analysis & Testing - SAST, DAST, Fuzzing
+
 
 **Certifications**  
 ![Oracle AI](https://img.shields.io/badge/Oracle-OCI_Gen_AI-red)
@@ -125,7 +161,7 @@ Created DevSecOps as a service with tiered offerings. Specifically geared toward
 
 ---
 
-*Last Updated: January 2026*  
+*Last Updated: March 2026*  
 
 > _"There is no such thing as 100% secure."_ — **Cybersecurity Myths & Misconceptions (Spafford Et al. 2023)**
 
