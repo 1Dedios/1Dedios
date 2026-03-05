@@ -49,7 +49,7 @@
 - Cloud & Identity & Access Management (IAM, MFA)
   - AWS
   - GCP
-- Twelve-Factor App
+- Twelve-Factor Application
 
 #### 1. Programming
 - C, C# (.NET Core/ASP.NET),
@@ -87,7 +87,6 @@
 
 #### 2. APP Security
 - OWASP Top 10
-- Twelve-Factor Application
 - Source Code Analysis & Testing - SAST, DAST, Fuzzing
 
 
