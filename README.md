@@ -14,7 +14,10 @@
 
 <!--GIAC Badges-->
 ## SANS Institute Security Training
-<img src="https://personal-site.b-cdn.net/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT Badge" height="84px" width="84px"/>
+<div style={display: flex, direction: flex-row}>
+   <img src="https://personal-site.b-cdn.net/giac-foundational-cybersecurity-technologies-gfact.png" alt="GFACT Badge" height="84px" width="84px"/>
+   <img src="https://personal-site.b-cdn.net/giac-security-essentials-certification-gsec.png" alt="GSEC Badge" height="84px" width="84px"/>
+</div>
 
 ## 📊 Github Stats
 <p align="center">
